@@ -2,3 +2,4 @@
 *.json
 /photos
 /env
+/venv
